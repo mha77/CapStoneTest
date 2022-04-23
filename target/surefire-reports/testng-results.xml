@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-23T15:38:30 MESZ" name="Surefire suite" finished-at="2022-04-23T15:38:33 MESZ" duration-ms="3231">
+    <groups>
+    </groups>
+    <test started-at="2022-04-23T15:38:30 MESZ" name="Surefire test" finished-at="2022-04-23T15:38:33 MESZ" duration-ms="3231">
+      <class name="com.simplilearn.CapStoneTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.simplilearn.CapStoneTest@5cdd8682]" started-at="2022-04-23T15:38:30 MESZ" name="Setup" finished-at="2022-04-23T15:38:32 MESZ" duration-ms="2153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="OpenPageTest()[pri:0, instance:com.simplilearn.CapStoneTest@5cdd8682]" started-at="2022-04-23T15:38:32 MESZ" name="OpenPageTest" finished-at="2022-04-23T15:38:32 MESZ" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPageTest -->
+        <test-method signature="adminLoginTest()[pri:0, instance:com.simplilearn.CapStoneTest@5cdd8682]" started-at="2022-04-23T15:38:32 MESZ" name="adminLoginTest" finished-at="2022-04-23T15:38:32 MESZ" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLoginTest -->
+        <test-method signature="adminPortalTest()[pri:0, instance:com.simplilearn.CapStoneTest@5cdd8682]" started-at="2022-04-23T15:38:32 MESZ" name="adminPortalTest" finished-at="2022-04-23T15:38:33 MESZ" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminPortalTest -->
+        <test-method signature="userPortalTest()[pri:0, instance:com.simplilearn.CapStoneTest@5cdd8682]" started-at="2022-04-23T15:38:33 MESZ" name="userPortalTest" finished-at="2022-04-23T15:38:33 MESZ" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userPortalTest -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.simplilearn.CapStoneTest@5cdd8682]" started-at="2022-04-23T15:38:33 MESZ" name="Teardown" finished-at="2022-04-23T15:38:33 MESZ" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.simplilearn.CapStoneTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
